@@ -27,7 +27,7 @@
 - Website - [vatsalsinghkv.vercel.app](https://vatsalsinghkv.vercel.app)
 - Github - [@VaibhavMishra1341](https://github.com/VaibhavMishra1341)
 - LinkedIn - [@VaibhavMishra](https://www.linkedin.com/in/vaibhav-mishra-vm/)
-- Instagram - [@vatsalsinghkv](https://www.instagram.com/_vaibhav__mishra_)
-- CodeStudio - [@Vaibhav_Mishra] (https://www.codingninjas.com/studio/profile/vaibhav_mishra)
-- GeeksForGeeks - [@vaibhavc608] (https://auth.geeksforgeeks.org/user/vaibhavc608)
+- Instagram - [@_vaibhav__mishra_](https://www.instagram.com/_vaibhav__mishra_)
+- CodeStudio - [@Vaibhav_Mishra](https://www.codingninjas.com/studio/profile/vaibhav_mishra)
+- GeeksForGeeks - [@vaibhavc608](https://auth.geeksforgeeks.org/user/vaibhavc608)
   
