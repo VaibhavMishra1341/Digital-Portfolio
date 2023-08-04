@@ -2,8 +2,6 @@
   Vaibhav Mishra' Portfolio 🚀
 </h1>
 
-[![My Portfolio](https://user-images.githubusercontent.com/68834718/214532356-7c56cdbd-0136-4d24-a532-d27e160ae72d.png)](https://vatsalsinghkv.vercel.app/)
-
 ## Sections
 
 - Hero
@@ -24,7 +22,6 @@
 
 ## Contact
 
-- Website - [vatsalsinghkv.vercel.app](https://vatsalsinghkv.vercel.app)
 - Github - [@VaibhavMishra1341](https://github.com/VaibhavMishra1341)
 - LinkedIn - [@VaibhavMishra](https://www.linkedin.com/in/vaibhav-mishra-vm/)
 - Instagram - [@_vaibhav__mishra_](https://www.instagram.com/_vaibhav__mishra_)
