@@ -2,7 +2,7 @@
   Vaibhav Mishra Portfolio 🚀
 </h1>
 
-[![My Portfolio](https://github.com/VaibhavMishra1341/Digital-Portfolio/assets/39896268/b5086c52-5aec-4e4d-a79f-ae2fbf91b25f)(https://vaibhav-mishra.vercel.app/)]
+[![My Portfolio](https://github.com/VaibhavMishra1341/Digital-Portfolio/assets/39896268/b5086c52-5aec-4e4d-a79f-ae2fbf91b25f)](https://vaibhav-mishra.vercel.app/)
 
 - CodeStudio - [@Vaibhav_Mishra](https://www.codingninjas.com/studio/profile/vaibhav_mishra)
 - GeeksForGeeks - [@vaibhavc608](https://auth.geeksforgeeks.org/user/vaibhavc608)
