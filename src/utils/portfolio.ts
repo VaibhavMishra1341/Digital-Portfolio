@@ -103,7 +103,7 @@ export const aboutSection: AboutSectionType = {
       'C++',
       'Python',
       'SQL',
-      'NextJs',
+      'Hadoop',
       'TailwindCSS',
       'ExpressJs',
       'ReactJS',

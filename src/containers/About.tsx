@@ -19,17 +19,18 @@ const About = () => {
       <main className="flex flex-col items-center gap-16 lg:items-start lg:flex-row">
         <div className="space-y-4 lg:w-3/5">
           <p>
-            Hi, my name is Vaibhav Mishra, A 4th year CSE student with interests in <ul>
-              <li>- 🔬 Data Science</li> 
-              <li>- 🤖 Artificial Intelligence</li>
-            </ul> Interested in doing Core Development using
-            C++ and similar tech. I like to sprinkle some Web Development here
-            and there. I am also an open-source enthusiast and maintainer. Learned a lot from the open-source community and love how
-            collaboration and knowledge sharing happened through open-source.
+            Hi, my name is Vaibhav Mishra, A 4th year CSE student with a passion for
+            {' '}
+            <ul className='my-3'>
+              <li>- <strong>🔬 Data Science</strong></li>
+              <li>- <strong>🤖 Artificial Intelligence</strong></li>
+            </ul>{' '}
+            Proficient in <strong>C++ and core development</strong>, My love for development started from <strong>Web Development</strong>. An avid open-source advocate and
+            contributor. Learned a lot from the
+            open-source community and love how collaboration and knowledge
+            sharing happened through open-source. 
           </p>
-          <p>
-            I am open for Internships as well as Full-Time position.
-          </p>
+          <p>I am open for Internships as well as Full-Time position.</p>
 
           {list && (
             <>
