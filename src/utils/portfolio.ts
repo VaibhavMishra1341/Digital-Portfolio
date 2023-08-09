@@ -204,7 +204,7 @@ export const experienceSection: ExperienceSectionType = {
       companyUrl: 'https://greenenterprise.group/',
       role: 'full-stack developer',
       started: 'november 2022',
-      upto: 'march 2022',
+      upto: 'march 2023',
       tasks: [
         'Worked to create the UI for OPUS using React TypeScript and Tailwind CSS',
         'Managed a team of 3 to complete tasks on time',
@@ -267,7 +267,7 @@ export const projectsSection: ProjectsSectionType = {
       repo: 'https://github.com/Akshat7274/NU_GrubGrab',
       img: 'https://user-images.githubusercontent.com/39896268/246042348-1c12f349-162a-4bc6-92f5-0771a49cbbc8.png',
       year: 2023,
-      tags: ['MongoDB','Express','ReactJS','NodeJS'],
+      tags: ['MongoDB', 'Express', 'ReactJS', 'NodeJS'],
     },
     {
       id: getId(),
@@ -285,7 +285,7 @@ export const projectsSection: ProjectsSectionType = {
       repo: 'https://github.com/VaibhavMishra1341/Uber-Data-Ananlysis',
       img: 'https://user-images.githubusercontent.com/39896268/258600463-8a94b539-6185-4186-b122-890a0100a753.png',
       year: 2023,
-      tags: ['R', 'GGPLOT','Lubridate', 'dplyr', 'tidyr', 'tidyverse'],
+      tags: ['R', 'GGPLOT', 'Lubridate', 'dplyr', 'tidyr', 'tidyverse'],
     },
     {
       id: getId(),
@@ -294,7 +294,7 @@ export const projectsSection: ProjectsSectionType = {
       repo: 'https://github.com/VaibhavMishra1341/Flood-Relief',
       img: 'https://user-images.githubusercontent.com/39896268/258600666-4c73aa37-138e-4a9b-acf0-e89c594dabe8.png',
       year: 2022,
-      tags: ['HTML', 'CSS', 'JavaScript','RazorPay'],
+      tags: ['HTML', 'CSS', 'JavaScript', 'RazorPay'],
     },
     {
       id: getId(),
