@@ -2,6 +2,7 @@
   Vaibhav Mishra Portfolio 🚀
 </h1>
 
+<a href = "https://vaibhav-mishra.vercel.app/"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/39896268/258565328-499f78c6-1bcf-4dbe-92ef-acae4cf777fb.png" alt = "Digital Portfolio" /></a>
 [![Screenshot_88]([https://github-production-user-asset-6210df.s3.amazonaws.com/39896268/258565328-499f78c6-1bcf-4dbe-92ef-acae4cf777fb.png])](https://vaibhav-mishra.vercel.app/)
 
 - CodeStudio - [@Vaibhav_Mishra](https://www.codingninjas.com/studio/profile/vaibhav_mishra)
