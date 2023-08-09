@@ -292,7 +292,7 @@ export const projectsSection: ProjectsSectionType = {
       name: 'Reliance Mart Sale Dashboard',
       url: 'https://github.com/VaibhavMishra1341/Reliance-Mart-Sale-Dashboard/',
       repo: 'https://github.com/VaibhavMishra1341/Reliance-Mart-Sale-Dashboard/',
-      img: 'https://github.com/VaibhavMishra1341/Reliance-Mart-Sale-Dashboard/blob/main/Result1.png',
+      img: 'https://user-images.githubusercontent.com/39896268/259313064-39b004bc-591e-47f3-9d4b-21561d5ba5e2.png',
       year: 2023,
       tags: ['PowerBI', 'Excel', 'Data Analysis'],
     },
