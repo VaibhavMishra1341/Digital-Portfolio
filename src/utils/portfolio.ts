@@ -289,6 +289,15 @@ export const projectsSection: ProjectsSectionType = {
     },
     {
       id: getId(),
+      name: 'Reliance Mart Sale Dashboard',
+      url: 'https://github.com/VaibhavMishra1341/Reliance-Mart-Sale-Dashboard/',
+      repo: 'https://github.com/VaibhavMishra1341/Reliance-Mart-Sale-Dashboard/',
+      img: 'https://github.com/VaibhavMishra1341/Reliance-Mart-Sale-Dashboard/blob/main/Result1.png',
+      year: 2023,
+      tags: ['PowerBI', 'Excel', 'Data Analysis'],
+    },
+    {
+      id: getId(),
       name: 'Donation for Flood Relief in Assam and Bihar',
       url: 'https://vaibhavmishra1341.github.io/Flood-Relief/',
       repo: 'https://github.com/VaibhavMishra1341/Flood-Relief',
