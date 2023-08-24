@@ -112,6 +112,8 @@ export const aboutSection: AboutSectionType = {
       'NodeJS',
       'TypeScript',
       'Figma',
+      'HiveQL',
+      'Flume',
     ],
   },
   img: '/vaibhav-mishra.jpg',
