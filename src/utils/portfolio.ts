@@ -79,7 +79,7 @@ export const heroSection: HeroSectionType = {
   title: 'Vaibhav Mishra.',
   tagline: 'Passionate Computer Science Senior',
   description:
-    'I possess a strong command of Data Structures and Algorithms in C++ and Python, coupled with hands-on Full Stack experience in MERN, reflecting a holistic approach to software craftsmanship.',
+    'I possess a strong command over Data Structures and Algorithms in C++ and Python, coupled with hands-on Full Stack experience in MERN, reflecting a holistic approach to software craftsmanship.',
   // description:
   //   "I'm a passionate Full Stack web developer having an experience of web  applications with React.js, Next.js and Blockchain development on Ethereum, Solidity and Web3.js.",
   specialText: 'Currently available for a full-time job or an internship',
