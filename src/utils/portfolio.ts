@@ -160,7 +160,6 @@ export const skillsSection: SkillsSectionType = {
         // iconify icons: https://icon-sets.iconify.design/
         { name: 'html-5', icon: 'vscode-icons:file-type-html' },
         { name: 'CSS-3', icon: 'vscode-icons:file-type-css' },
-        { name: 'sass', icon: 'vscode-icons:file-type-sass' },
         { name: 'javaScript', icon: 'vscode-icons:file-type-js-official' },
         {
           name: 'typeScript',
@@ -191,6 +190,7 @@ export const skillsSection: SkillsSectionType = {
       softwareSkills: [
         { name: 'figma', icon: 'logos:figma' },
         { name: 'adobe photoshop', icon: 'logos:adobe-photoshop' },
+        { name: 'canva', icon: 'devicon:canva' },
       ],
     },
   ],
