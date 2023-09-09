@@ -285,6 +285,15 @@ export const projectsSection: ProjectsSectionType = {
     },
     {
       id: getId(),
+      name: 'Calories Burnt Prediction',
+      url: 'https://github.com/VaibhavMishra1341/Calories-Burnt-Prediction',
+      repo: 'https://github.com/VaibhavMishra1341/Calories-Burnt-Prediction',
+      img: 'https://user-images.githubusercontent.com/39896268/266753625-4352cdaf-444b-4a7e-8327-4281ce75194b.jpg',
+      year: 2023,
+      tags: ['Python', 'XGBoost Regression', 'Scikit'],
+    },
+    {
+      id: getId(),
       name: 'Uber Data Analysis',
       url: 'https://github.com/VaibhavMishra1341/Uber-Data-Ananlysis',
       repo: 'https://github.com/VaibhavMishra1341/Uber-Data-Ananlysis',
